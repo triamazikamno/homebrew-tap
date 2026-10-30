@@ -1,6 +1,6 @@
 cask "railoxide" do
-  version "0.2.0-beta.12"
-  sha256 "b8dc9e2208181cde3a15d4c4dcafd99fd893cb0309f96b7aa428971a058e3824"
+  version "0.2.0-beta.13"
+  sha256 "c4a9f0b16e0a115b8d71b56cb5a96df44c46a9d73e91de6b7cb5c161c06b72e4"
 
   url "https://github.com/triamazikamno/railoxide/releases/download/v#{version}/RailOxide-v#{version}-macos-arm64.dmg"
   name "RailOxide"
